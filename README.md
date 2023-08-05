@@ -1,4 +1,4 @@
-### welcome
+⚡ hi folks...
 
 <div align="center">
   <a href="https://github.com/kentslav3s">
@@ -6,4 +6,3 @@
 </div>
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/kentslav3s.svg?logo=twitter)](https://twitter.com/kentslav3s)
-⚡ It`s all folks...
